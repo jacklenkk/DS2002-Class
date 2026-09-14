@@ -42,7 +42,8 @@ DS2002FA26/
     ├── 06-midterm-walmart/       <- Midterm project (Walmart Hurricane Analytics)
     ├── 07-visualization/         <- Visualization for decisions
     ├── 08-capstone-gameday/      <- Capstone (Game Day Pulse)
-    └── 09-wrap-up/               <- Reflection + what to keep using
+    ├── 09-wrap-up/               <- Reflection + what to keep using
+    └── 10-Reference/             <- Not tied to a class day; reopen as needed
 ```
 
 ---
