@@ -143,9 +143,9 @@ Friday labs are released each Friday and completed asynchronously. Recommended: 
 With ~53 students per section, participation is **not** graded on speaking in front of the room.
 
 Each **Wednesday studio** ends with a short **breakout checkpoint**:
-1. Work in **groups of 4–5** for the last ~8 minutes of class.
+1. Work in **groups of 4–5** if you wish — grouping up is optional, and it does not have to wait for the end of class.
 2. Complete the checkpoint cell at the bottom of that week's **Studio** notebook on your own.
-3. Submit **individually** in Canvas (**Studio Checkpoint — Week X**) by **Wednesday 11:59pm ET**.
+3. Submit **individually** in Canvas (**Studio Checkpoint — Week X**) by **Thursday 11:59pm ET**.
 
 **What to submit:** paste the printed output from the checkpoint cell, or upload a screenshot. One or two sentences is enough — e.g. what worked, what broke, or what your group tried.
 

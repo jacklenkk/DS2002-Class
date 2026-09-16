@@ -27,7 +27,7 @@ Run through this every time you submit a lab or project.
 ## Studio checkpoint only (participation)
 
 - [ ] Ran the checkpoint cell at the bottom of this week's Studio notebook
-- [ ] Submitted **individually** in Canvas (`Studio Checkpoint — Week X`) by Wednesday 11:59pm ET
+- [ ] Submitted **individually** in Canvas (`Studio Checkpoint — Week X`) by Thursday 11:59pm ET
 - [ ] Pasted output or uploaded a screenshot — one or two sentences is enough
 
 ## Projects only
