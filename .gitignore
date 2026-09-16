@@ -16,6 +16,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Editor workspace files
+*.code-workspace
+
 # Large / generated data (keep only data/sample/)
 data/full/
 *.db-journal
